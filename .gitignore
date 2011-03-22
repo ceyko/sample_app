@@ -5,3 +5,6 @@ tmp/
 
 # RubyMine config
 .idea/
+
+# webrat
+webrat.log
